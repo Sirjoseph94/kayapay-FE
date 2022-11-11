@@ -2,7 +2,6 @@
 import { describe, it, afterEach } from "vitest";
 import { cleanup } from "@testing-library/react";
 
-
 afterEach(cleanup);
 
 describe("App", () => {
